@@ -1,0 +1,1 @@
+# NanoChess for Mac
